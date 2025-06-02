@@ -19,5 +19,5 @@ Open the index.html file in your web browser to start using the application.
 ## Usage
  1. Add tasks with a simple click.
  2. Delete tasks by clicking on the delete button.
- 3. It displays all saved tasks along with their details, including task name, description, due date, and   priority.
+ 3. It displays all saved tasks along with their details, including task name, description, due date.
  
